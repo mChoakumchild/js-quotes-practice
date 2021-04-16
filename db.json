@@ -2,18 +2,13 @@
   "quotes": [
     {
       "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
+      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
+      "author": "Ann Richards"
     },
     {
       "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
+      "quote": "Don't count the days, make the days count.",
+      "author": "Mike Tyson"
     },
     {
       "id": 4,
@@ -22,153 +17,43 @@
     },
     {
       "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
+      "quote": "The cure for boredom is curiosity. There is no cure for curiosity.",
+      "author": "Dorothy Parker"
     },
     {
       "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
+      "quote": "Do the best you can in every task, no matter how unimportant it may seem at the time. No one learns more about a problem than the person at the bottom.",
+      "author": "Sandra Day O'Connor"
     },
     {
       "id": 7,
+      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "id": 9,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
     },
     {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
+      "author": "Def",
+      "quote": "Abc",
+      "id": 10
     },
     {
-      "id": 9,
-      "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-      "author": "James Baldwin"
+      "author": "Eric",
+      "quote": "Read the README",
+      "id": 11
     },
     {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "id": 11,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618488740,
+      "author": "Eric",
+      "quote": "Read the README AGAIN",
       "id": 12
     },
     {
-      "quoteId": null,
-      "createdAt": 1618489093,
-      "id": 13
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489602,
+      "author": "Brett",
+      "quote": "I don't have a quote",
       "id": 14
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489604,
-      "id": 15
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489605,
-      "id": 16
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489605,
-      "id": 17
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489725,
-      "id": 18
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489726,
-      "id": 19
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489726,
-      "id": 20
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489789,
-      "id": 21
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489789,
-      "id": 22
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489790,
-      "id": 23
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489852,
-      "id": 24
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489853,
-      "id": 25
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618489854,
-      "id": 26
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490022,
-      "id": 27
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490023,
-      "id": 28
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490041,
-      "id": 29
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490042,
-      "id": 30
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490043,
-      "id": 31
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490043,
-      "id": 32
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490078,
-      "id": 33
-    },
-    {
-      "quoteId": null,
-      "createdAt": 1618490079,
-      "id": 34
     }
   ],
   "likes": [
@@ -178,144 +63,72 @@
       "createdAt": 1558524356
     },
     {
-      "quoteId": 10,
-      "id": 2,
-      "createdAt": 1558524358
+      "quoteId": 1,
+      "id": 2
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490559,
+      "quoteId": 1,
       "id": 3
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490583,
+      "quoteId": 3,
       "id": 4
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490584,
+      "quoteId": 3,
       "id": 5
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490585,
+      "quoteId": 1,
       "id": 6
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490585,
+      "quoteId": 1,
       "id": 7
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490586,
+      "quoteId": 14,
       "id": 8
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490586,
+      "quoteId": 14,
       "id": 9
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490586,
+      "quoteId": 12,
       "id": 10
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490586,
+      "quoteId": 12,
       "id": 11
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490586,
+      "quoteId": 12,
       "id": 12
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490592,
+      "quoteId": 14,
       "id": 13
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490614,
+      "quoteId": 14,
       "id": 14
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490615,
+      "quoteId": 14,
       "id": 15
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490615,
+      "quoteId": 14,
       "id": 16
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490616,
+      "quoteId": 14,
       "id": 17
     },
     {
-      "quoteId": "8",
-      "createdAt": 1618490617,
+      "quoteId": 14,
       "id": 18
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618490898,
-      "id": 19
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618490900,
-      "id": 20
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618490901,
-      "id": 21
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618490901,
-      "id": 22
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618491375,
-      "id": 23
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618491377,
-      "id": 24
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618491377,
-      "id": 25
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618491377,
-      "id": 26
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618491444,
-      "id": 27
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618491502,
-      "id": 28
-    },
-    {
-      "quoteId": "8",
-      "createdAt": 1618491530,
-      "id": 29
     }
   ]
 }
